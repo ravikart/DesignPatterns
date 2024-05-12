@@ -1,7 +1,7 @@
 package designpatterns.demo.runner;
 
-import designpattens.demo.builderpattern.ComputerBuilderImpl;
-import designpattens.demo.builderpattern.ComputerDirector;
+import designpatterns.demo.builderpattern.ComputerBuilderImpl;
+import designpatterns.demo.builderpattern.ComputerDirector;
 
 public class BuilderDesignPatternRunner {
 

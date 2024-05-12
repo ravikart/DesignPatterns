@@ -1,4 +1,4 @@
-package designpattens.demo.builderpattern;
+package designpatterns.demo.builderpattern;
 
 public class ComputerBuilderImpl implements ComputerBuilder{
 	
